@@ -1,3 +1,2 @@
-# laravel-adminlte-bootstrap
-here will be uploaded separete installation version of laravel-adminlte-bootstrap
-gi
+# Please run these command after pull or download
+
