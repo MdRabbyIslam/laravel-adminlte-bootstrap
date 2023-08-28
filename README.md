@@ -1,5 +1,7 @@
 # Please run these command after pull or download
-
+```
+composer update
+```
 ```
 php artisan key:generate
 ```
